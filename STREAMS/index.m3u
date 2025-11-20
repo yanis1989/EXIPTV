@@ -779,4 +779,34 @@ https://jmp2.uk/stvp-FRBC900003KP
 https://jmp2.uk/stvp-FR360000680
 #EXTINF:-1 group-title="SAMSUNGTV + FRANCE" tvg-id="FRBC900001LB" tvg-name="Émotion" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20241015T040425SQUARE.png" ,Émotion
 https://jmp2.uk/stvp-FRBC900001LB
+#EXTM3U x-tvg-url="https://bit.ly/a1xepg" tvg-shift=0
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" ,BBC One FHD
+https://a1xs.vip/1000001
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two FHD" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" ,BBC Two FHD
+https://a1xs.vip/1000002
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three / CBBC FHD" tvg-logo="https://i.ibb.co/n8t4rCh/BBC-Three.png" ,BBC Three / CBBC FHD
+https://a1xs.vip/1000003
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="ITV1.HD.uk" tvg-name="iTV1 FHD" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" ,iTV1 FHD
+https://a1xs.vip/1000011
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="ITV2.HD.uk" tvg-name="iTV2 FHD" tvg-logo="https://i.ibb.co/Yc66t7f/ITV2.png" ,iTV2 FHD
+https://a1xs.vip/1000012
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="ITV3.HD.uk" tvg-name="iTV3 FHD" tvg-logo="https://i.ibb.co/fHbyKrt/ITV3.png" ,iTV3 FHD
+https://a1xs.vip/1000013
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="ITV4.HD.uk" tvg-name="iTV4 FHD" tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" ,iTV4 FHD
+https://a1xs.vip/1000014
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News FHD" tvg-logo="https://i.ibb.co/zTrX98R6/BBC-News.png" ,BBC News FHD
+https://a1xs.vip/1000015
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="Channel.5.HD.uk" tvg-name="Channel 5 FHD" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" ,Channel 5 FHD
+https://a1xs.vip/1000030
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="Channel.4.HD.uk" tvg-name="Channel 4 FHD" tvg-logo="https://i.ibb.co/v3WBCFV/Channel-4.png" ,Channel 4 FHD
+https://a1xs.vip/1000031
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="E4.HD.uk" tvg-name="E4 FHD" tvg-logo="https://i.ibb.co/PbGvD1S/e4.png" ,E4 FHD
+https://a1xs.vip/1000032
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="More4.HD.uk" tvg-name="MORE4 FHD" tvg-logo="https://i.ibb.co/JW60xfTZ/more4.png" ,More4 FHD
+https://a1xs.vip/1000034
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="Film4.HD.uk" tvg-name="FILM4 FHD" tvg-logo="https://i.ibb.co/dwLfJ590/film4.png" ,Film4 FHD
+https://a1xs.vip/1000035
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="4seven.uk" tvg-name="4Seven FHD" tvg-logo="https://i.ibb.co/XrqnS520/4seven.png" ,4Seven FHD
+https://a1xs.vip/1000036
+
 
