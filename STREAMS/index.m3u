@@ -808,5 +808,34 @@ https://a1xs.vip/1000034
 https://a1xs.vip/1000035
 #EXTINF:-1 group-title="UK CHANNELS" tvg-id="4seven.uk" tvg-name="4Seven FHD" tvg-logo="https://i.ibb.co/XrqnS520/4seven.png" ,4Seven FHD
 https://a1xs.vip/1000036
+#EXTM3U
+#EXTINF:-1 group-title="BELGIQUE" tvg-id="AB3.be@HD" ,AB3 HD
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
+#EXTINF:-1 group-title="BELGIQUE" tvg-id="BelRTL.be@SD" ,Bel RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 group-title="BELGIQUE" tvg-id="BX1.be@SD" ,BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 group-title="BELGIQUE" tvg-id="LaUne.be@SD" ,La Une
+http://41.205.93.154/LA-UNE/mpegts
+#EXTINF:-1 group-title="BELGIQUE" tvg-id="Matele.be@SD" ,MaTele
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 group-title="BELGIQUE" tvg-id="Notele.be@SD" ,Notele
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+#EXTINF:-1 group-title="BELGIQUE" tvg-id="RTLTVI.be@SD" ,RTL-TVI
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+#EXTINF:0 group-title="BELGIQUE" ,LA DEUX
+http://41.205.93.154/LA-DEUX/mpegts
+#EXTINF:0 group-title="FRANCE V1" ,TF1
+http://41.205.93.154/TF1/mpegts
+#EXTINF:0 group-title="FRANCE V1" ,TFX
+http://41.205.93.154/TFX/mpegts
+#EXTINF:0 group-title="FRANCE V1" ,TMC
+http://41.205.93.154/TMC/mpegts
+#EXTINF:0 group-title="FRANCE V1" ,RTL9
+http://41.205.93.154/RTL9/mpegts
+#EXTINF:0 group-title="FRANCE V1" ,AB1
+http://41.205.93.154/AB1/mpegts
+#EXTINF:0 group-title="FRANCE V1" ,TEVA
+http://41.205.93.154/TEVA/mpegts
 
 
