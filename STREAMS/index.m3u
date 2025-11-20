@@ -1,60 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ARABE" tvg-id="AbuDhabiEmirates.ae@SD" ,Abu Dhabi Emirates
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="AbuDhabiSports1.ae@SD" ,Abu Dhabi Sports 1
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="AbuDhabiSports2.ae@SD" ,Abu Dhabi Sports 2
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="AbuDhabiTV.ae@SD" ,Abu Dhabi TV
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="AjmanTV.ae@SD" ,Ajman TV
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="AlDafrahTV.ae@SD" ,Al Dafrah TV
-https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="AlSharqiyaMinKabla.ae@SD" ,Al Sharqiya Min Kabla
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="AlWoustaTV.ae@SD" ,Al Wousta TV
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="BaynounahTV.ae@SD" ,Baynounah TV
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="CNBCArabiya.ae@SD" ,CNBC Arabiya
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="FujairahTV.ae@SD" ,Fujairah TV
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="Majid.ae@SD" ,Majid
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="MBC1.ae@SD" ,MBC 1
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="MBC4.ae@SD" ,MBC 4
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="MBC5.ae@SD" ,MBC 5
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="MBCBollywood.ae@SD" ,MBC Bollywood
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="MBCDrama.ae@SD" ,MBC Drama KSA
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="MBCPersia.ae@SD" ,MBC Persia
-https://hls.mbcpersia.live/hls/stream.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="NationalGeographicAbuDhabi.ae@SD" ,National Geographic Abu Dhabi
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="Sharjah2.ae@SD" ,Sharjah 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="SharjahSports.ae@SD" ,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="SharjahSports.ae@SD" ,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="SharjahTV.ae@SD" ,Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="SpacetoonArabic.ae@SD" ,Spacetoon Arabic
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="Wanasah.ae@SD" ,Wanasah
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="YasTV.ae@SD" ,Yas TV
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="SkyNewsArabiaVertical.ae@HD" ,Sky News Arabia Vertical
-https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="SkyNewsArabia.ae@HD" ,Sky News Arabia
-https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 group-title="TNT FRANCE" tvg-id="TF1.fr@HD" ,TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 group-title="TNT FRANCE" tvg-id="France2.fr@HD" ,France 2
@@ -231,3 +175,59 @@ https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 https://htvmada.mada.ps:4443/wattan/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ARABE" tvg-logo="http://www.wbn.ps/assets/images/logo.png" ,Watr
 https://htvint.mada.ps/orient/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="AbuDhabiEmirates.ae@SD" ,Abu Dhabi Emirates
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="AbuDhabiSports1.ae@SD" ,Abu Dhabi Sports 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="AbuDhabiSports2.ae@SD" ,Abu Dhabi Sports 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="AbuDhabiTV.ae@SD" ,Abu Dhabi TV
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="AjmanTV.ae@SD" ,Ajman TV
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="AlDafrahTV.ae@SD" ,Al Dafrah TV
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="AlSharqiyaMinKabla.ae@SD" ,Al Sharqiya Min Kabla
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="AlWoustaTV.ae@SD" ,Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="BaynounahTV.ae@SD" ,Baynounah TV
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="CNBCArabiya.ae@SD" ,CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="FujairahTV.ae@SD" ,Fujairah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="Majid.ae@SD" ,Majid
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="MBC1.ae@SD" ,MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="MBC4.ae@SD" ,MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="MBC5.ae@SD" ,MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="MBCBollywood.ae@SD" ,MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="MBCDrama.ae@SD" ,MBC Drama KSA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="MBCPersia.ae@SD" ,MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="NationalGeographicAbuDhabi.ae@SD" ,National Geographic Abu Dhabi
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="Sharjah2.ae@SD" ,Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="SharjahSports.ae@SD" ,Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="SharjahSports.ae@SD" ,Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="SharjahTV.ae@SD" ,Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="SpacetoonArabic.ae@SD" ,Spacetoon Arabic
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="Wanasah.ae@SD" ,Wanasah
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="YasTV.ae@SD" ,Yas TV
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="SkyNewsArabiaVertical.ae@HD" ,Sky News Arabia Vertical
+https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="SkyNewsArabia.ae@HD" ,Sky News Arabia
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
