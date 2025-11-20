@@ -141,8 +141,6 @@ https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u
 http://82.212.74.100:8000/live/8103.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-logo="https://www.maannews.net/assets/images/logo.png" ,Ma'an
 https://htvmada.mada.ps:4443/maannews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-logo="http://www.marinafm.com/images/Logo_MarinaFM.png" ,Marina FM TV
-https://ffs.gulfsat.com/Marina-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-id="Med1.tv.Afrique.ma" tvg-logo="https://i.ibb.co/sjfvWL2/m1.jpg" ,Medi 1 Afrique
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-logo="https://i.ibb.co/sjfvWL2/m1.jpg" ,Medi 1 Al-Arabiya
@@ -151,30 +149,18 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dv
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-logo="https://www.mtv.com.lb/images/header/mtv-logo.svg" ,MTV Lebanon
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nabaa.png" ,Naba'
-https://655ca86f46b1f.streamlock.net/live/Nabaa/chunklist_w1831890321.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nbn.png" ,NBN
 http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/NoorDubai.png" ,Noor Dubai
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/128px-OTV_%28logo%29.svg.png" ,OTV
 http://185.9.2.18/chid_312/index.m3u8
-#EXTINF:0 group-title="ARABE" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" ,Raya TV
-https://htvmada.mada.ps:4443/raya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-logo="https://rojavatv.net/wp-content/uploads/2024/02/rojavalogonew.png" ,Rojava
-https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/Sama.png" ,Sama Dubai
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-logo="https://i.ibb.co/Fmvtnr7/dw-ar.png" ,Sawt Alemania
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:0 group-title="ARABE" tvg-logo="https://shababfm.ps/wp-content/uploads/2020/10/shabab-banner.png" ,Shabab FM
-https://htvint.mada.ps/shababfm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-logo="https://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" ,Sudan TV
 https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 #EXTINF:0 group-title="ARABE" tvg-logo="https://i.ibb.co/4g4VNx7/quds-tv.png" ,Watan
 https://htvmada.mada.ps:4443/wattan/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ARABE" tvg-logo="http://www.wbn.ps/assets/images/logo.png" ,Watr
-https://htvint.mada.ps/orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-id="AbuDhabiEmirates.ae@SD" ,Abu Dhabi Emirates
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-id="AbuDhabiSports1.ae@SD" ,Abu Dhabi Sports 1
@@ -217,8 +203,6 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/H
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-id="SharjahSports.ae@SD" ,Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="SharjahSports.ae@SD" ,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-id="SharjahTV.ae@SD" ,Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-id="SpacetoonArabic.ae@SD" ,Spacetoon Arabic
@@ -227,7 +211,21 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-id="YasTV.ae@SD" ,Yas TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="ARABE" tvg-id="SkyNewsArabiaVertical.ae@HD" ,Sky News Arabia Vertical
-https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
 #EXTINF:-1 group-title="ARABE" tvg-id="SkyNewsArabia.ae@HD" ,Sky News Arabia
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="KTV1.kw@SD" ,KTV 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="KTV2.kw@SD" ,KTV 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="KTVAlQurain.kw@SD" ,KTV Al Qurain
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="KTVArabe.kw@SD" ,KTV Arabe
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="KTVEthraa.kw@SD" ,KTV Ethraa
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="KTVNews.kw@SD" ,KTV News
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="KTVSport.kw@SD" ,KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABE" tvg-id="KTVSportPlus.kw@SD" ,KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
